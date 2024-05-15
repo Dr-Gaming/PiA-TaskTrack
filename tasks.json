@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Task1",
+        "description": "Opis1",
+        "importance": "Normal",
+        "date": "5/15/24",
+        "time": "12:50",
+        "frequency": "Daily",
+        "Complete": false
+    },
+    {
+        "name": "Task2",
+        "description": "Opis2",
+        "importance": "Normal",
+        "date": "5/15/24",
+        "time": "15:00",
+        "frequency": "One-time",
+        "Complete": true
+    },
+    {
+        "name": "task3",
+        "description": "opis 3",
+        "importance": "Normal",
+        "date": "5/15/24",
+        "time": "12:00",
+        "frequency": "One-time",
+        "Complete": true
+    },
+    {
+        "name": "task4",
+        "description": "asdsd",
+        "importance": "Important",
+        "date": "5/23/24",
+        "time": "15:04",
+        "frequency": "Monthly",
+        "Complete": false
+    },
+    {
+        "name": "task5",
+        "description": "qwegfd",
+        "importance": "Low",
+        "date": "5/23/24",
+        "time": "16:03",
+        "frequency": "Weekly",
+        "Complete": false
+    },
+    {
+        "name": "task6",
+        "description": "asqweyxc",
+        "importance": "Low",
+        "date": "5/28/24",
+        "time": "17:04",
+        "frequency": "Weekly",
+        "Complete": false
+    }
+]
