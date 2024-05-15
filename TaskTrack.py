@@ -11,7 +11,7 @@ import time
 class ToDoList:
     def __init__(self, root):
         self.root = root
-        self.root.title("Task Manager")
+        self.root.title("TaskTrack")
         self.root.geometry("1200x600")
         self.frames = {}
         self.root.rowconfigure(0, weight=1)
